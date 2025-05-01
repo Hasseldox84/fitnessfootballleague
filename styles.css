@@ -1,0 +1,35 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffffff;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #000;
+    padding: 1rem;
+    text-align: center;
+}
+header img {
+    height: 80px;
+}
+main {
+    padding: 2rem;
+}
+h1, h2 {
+    color: #f87ca4;
+}
+iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+    border: none;
+}
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
